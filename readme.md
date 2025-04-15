@@ -22,8 +22,8 @@ Transform grayscale portraits into stylized low-poly artworks. This tool:
 python triangulate_portrait.py portrait.jpg 3
 ```
 ![Marilyn_Monroe1 0_triangulated_portrait](https://github.com/user-attachments/assets/4c590029-06c7-4e85-a43a-ad8165d44095)
-![Marilyn_Monroe](https://github.com/user-attachments/assets/80e6bad4-1869-4c9c-b84e-ca1060404ba9)
 ![Srinivasa_Ramanujan-Add _MS_a94_version2_(cropped)6 0_triangulated_portrait](https://github.com/user-attachments/assets/ac2347a8-fb97-42f5-880a-653ce3188f44)
+![Screenshot 2025-04-15 1501511 0_triangulated_portrait](https://github.com/user-attachments/assets/7980f531-0577-4335-a458-bd3eb25016ca)
 ![Screenshot 2025-04-15 1503241 0_triangulated_portrait](https://github.com/user-attachments/assets/21112706-eed3-491e-b4c6-cf5795dd7dee)
 ![photo_2025-02-21_10-24-331 0_triangulated_portrait](https://github.com/user-attachments/assets/969f0010-46b2-4c3c-801a-5c7b24c90bcd)
 
