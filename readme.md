@@ -3,6 +3,11 @@
 Bring your photos to life with mathematical elegance. **PolyGlitch** is a suite of 3 cutting-edge tools that transform images into art using triangulation, Voronoi diagrams, and perceptual geometry. Perfect for generative art, visual storytelling, and creative portraiture.
 
 ---
+Try out demo at https://huggingface.co/spaces/SChatterjee-huggingface/delaunay-portrait
+![huggingface co_spaces_SChatterjee-huggingface_delaunay-portrait(Asus Zenbook Fold) (3)](https://github.com/user-attachments/assets/3d9d215a-9042-4bf4-8ae0-84b4678bbfad)
+
+To understand the theory, you may refer to this lecture by me
+https://github.com/SandeepChatterjee66/PolyGlitch/blob/main/Vornoi%20Computation%20SChatterjee_compressed.pdf
 
 ## ✨ Tools Included
 
